@@ -54,6 +54,7 @@ setLayout(new GridBagLayout());
         JButton logn = new JButton("Login");
 
         JButton purchase = new JButton("Purchase item");
+
         purchase.setBackground(Color.green);
         purchase.setContentAreaFilled(false);
         purchase.setForeground(Color.green);
