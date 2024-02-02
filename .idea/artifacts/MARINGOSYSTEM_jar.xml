@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MARINGOSYSTEM:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MARINGOSYSTEM_jar</output-path>
+    <root id="archive" name="MARINGOSYSTEM.jar">
+      <element id="module-output" name="MARINGOSYSTEM" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/mysql-connector-j-8.2.0.jar" path-in-jar="/" />
+      <element id="library" level="project" name="mysql-connector-j-8.2.0" />
+    </root>
+  </artifact>
+</component>
