@@ -1,4 +1,5 @@
 #MARINGO SPORTS CLUB SYSTEM 
+
 Maringo Sports Club was formed by Maringo County with the intention of developing talent 
 among the youths within the county in various games. 
 The club enrols youths of ages 12 to 35 years for any of the activities offered. The games 
